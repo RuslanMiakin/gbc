@@ -17,9 +17,9 @@ declare(strict_types=1);
 const DEFAULT_ORDERS_JSON_PATH = __DIR__ . DIRECTORY_SEPARATOR . 'mock_orders.json';
 const DEFAULT_LOG_PATH = __DIR__ . DIRECTORY_SEPARATOR . 'import_orders.log';
 const API_VERSION_PATH = '/api/v5';
-const RETAILCRM_BASE_URL = 'https://aliniym.retailcrm.ru';
-const RETAILCRM_API_KEY = 'P19fgkeVHqavN7MO3sofGu4xhMy9ADSv';
-const RETAILCRM_SITE = 'aliniym';
+const RETAILCRM_BASE_URL = '';
+const RETAILCRM_API_KEY = '';
+const RETAILCRM_SITE = '';
 const RETAILCRM_CUSTOM_FIELD_UTM_SOURCE = 'utm_source';
 const RETAILCRM_CUSTOM_FIELD_ORDER_TYPE = 'order_type';
 

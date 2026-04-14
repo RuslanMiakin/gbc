@@ -12,13 +12,13 @@ declare(strict_types=1);
  * Fill constants below and run script.
  */
 
-const RETAILCRM_BASE_URL = 'https://aliniym.retailcrm.ru';
-const RETAILCRM_API_KEY = 'P19fgkeVHqavN7MO3sofGu4xhMy9ADSv';
+const RETAILCRM_BASE_URL = '';
+const RETAILCRM_API_KEY = '';
 const API_VERSION_PATH = '/api/v5';
 
 // Set your Supabase project values.
-const SUPABASE_URL = 'https://bhcetloppklzmqsxxzxu.supabase.co';
-const SUPABASE_SERVICE_ROLE_KEY = 'sb_publishable_P4wHtcgw1-NUQaeQcOjS-Q_jybs0Sn4';
+const SUPABASE_URL = '';
+const SUPABASE_SERVICE_ROLE_KEY = '';
 const SUPABASE_TABLE = 'rcrm_orders';
 
 const RETAILCRM_PAGE_LIMIT = 100;

@@ -20,11 +20,11 @@
 declare(strict_types=1);
 
 // --- настройки ---
-const TELEGRAM_BOT_TOKEN = '7362629527:AAEtqdC_c4Mchnx8TD7umxVc1aMMhRSGFNg';
-const TELEGRAM_CHAT_ID = '-5042787813'; // число или @channelusername
+const TELEGRAM_BOT_TOKEN = '';
+const TELEGRAM_CHAT_ID = ''; // число или @channelusername
 
 /** Опционально: если не пусто — запрос без этого секрета отклоняется */
-const WEBHOOK_SECRET = 'sec222';
+const WEBHOOK_SECRET = '';
 
 /** Имя заголовка с секретом (если WEBHOOK_SECRET задан) */
 const SECRET_HEADER = 'X-Webhook-Secret';

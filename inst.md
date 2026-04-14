@@ -1,5 +1,5 @@
 
-https://aliniym.retailcrm.ruapi/v5/orders 
+https://YOUR_SUBDOMAIN.retailcrm.ru/api/v5/orders
 
 
 Получение списка заказов, удовлетворяющих заданному фильтру
